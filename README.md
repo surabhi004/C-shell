@@ -1,5 +1,4 @@
-# SHELL
-ROLL NO - 2021121004
+# Shell
 
 ## Compile
 ```sh
